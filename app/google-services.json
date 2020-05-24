@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "231843340396",
+    "firebase_url": "https://fire-facda.firebaseio.com",
+    "project_id": "fire-facda",
+    "storage_bucket": "fire-facda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231843340396:android:7cd6a2e6579b60f2fab849",
+        "android_client_info": {
+          "package_name": "com.example.fire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "231843340396-tt81u7d1v2ijen4cnh6octrqga4hb91o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY1y1YbFONaho1W75ugBmHcA9VubYL2eQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "231843340396-tt81u7d1v2ijen4cnh6octrqga4hb91o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
